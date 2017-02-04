@@ -1,0 +1,35 @@
+/*A temporary underconstruction splash screen for cailen.net
+
+~Cailen 2017*/
+
+html {
+    background-image: url(Website-background-GIF.gif);
+    background-size: 80px 80px;
+}
+
+#nudge_nudge {
+    display: block;
+    margin: 0 auto;
+    padding: 15
+}
+
+#text {
+    font-family: Comic Sans Ms;
+    font-size: 1em;
+    color: red;
+    
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+a {
+    color: red;
+    
+}
+
+.Da_Div {
+    background: white;
+    width: 230px;
+    height: auto;
+    margin: 0 auto 0 auto;
+}
